@@ -1,4 +1,4 @@
-## Bem-vindo ao meu perfil! Eu sou Laércio Oliveira!
+## Bem-vindo ao meu perfil! Meu nome é Laércio Oliveira!
 
  <div>
    <a href="https://github.com/franciscolaercio">
